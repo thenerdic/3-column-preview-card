@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [SOLUTION URL NOT UP YET]()
-- Live Site URL: [LIVE SITE NOT UP YET](https://thenerdic.github.io/3-column-preview-card/)
+- Solution URL: [SOLUTION URL](https://www.frontendmentor.io/solutions/3column-preview-card-FFXlTsMHW)
+- Live Site URL: [LIVE SITE](https://thenerdic.github.io/3-column-preview-card/)
 
 ### What I learned
 
