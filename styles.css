@@ -34,6 +34,7 @@ body {
   width: 300px;
   background: var(--sedan-bg);
   padding: 40px;
+  border-radius: 10px 0px 0px 10px;
 }
 
 .suv-card {
@@ -48,6 +49,7 @@ body {
   width: 300px;
   background: var(--luxury-bg);
   padding: 40px;
+  border-radius: 0 10px 10px 0px;
 }
 
 .content h2 {

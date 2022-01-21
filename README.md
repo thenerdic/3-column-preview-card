@@ -16,7 +16,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ## Overview
 
 ### TODO
-- [ ] Add the rounded corners
+- [x] Add the rounded corners
 - [ ] Mobile responsive
 
 ### The challenge
