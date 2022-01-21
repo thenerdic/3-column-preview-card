@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [SOLUTION URL NOT UP YET]()
-- Live Site URL: [LIVE SITE NOT UP YET]()
+- Live Site URL: [LIVE SITE NOT UP YET](https://thenerdic.github.io/3-column-preview-card/)
 
 ### What I learned
 
