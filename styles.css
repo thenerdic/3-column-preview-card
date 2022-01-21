@@ -94,3 +94,18 @@ button:hover {
   color: var(--light-gray);
   border: 1px solid white;
 }
+
+@media only screen and (max-width: 375px) {
+  .card-container {
+    flex-direction: column;
+    height: 200vh;
+  }
+
+  .sedan-card {
+    border-radius: 10px 10px 0px 0px;
+  }
+
+  .luxury-card {
+    border-radius: 0px 0px 10px 10px;
+  }
+}
